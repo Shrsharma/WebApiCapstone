@@ -1,0 +1,9 @@
+D:\CapstoneProject\WebApi\ModelLayer\bin\Release\netstandard2.1\ModelLayer.deps.json
+D:\CapstoneProject\WebApi\ModelLayer\bin\Release\netstandard2.1\ModelLayer.dll
+D:\CapstoneProject\WebApi\ModelLayer\bin\Release\netstandard2.1\ModelLayer.pdb
+D:\CapstoneProject\WebApi\ModelLayer\obj\Release\netstandard2.1\ModelLayer.csprojAssemblyReference.cache
+D:\CapstoneProject\WebApi\ModelLayer\obj\Release\netstandard2.1\ModelLayer.AssemblyInfoInputs.cache
+D:\CapstoneProject\WebApi\ModelLayer\obj\Release\netstandard2.1\ModelLayer.AssemblyInfo.cs
+D:\CapstoneProject\WebApi\ModelLayer\obj\Release\netstandard2.1\ModelLayer.csproj.CoreCompileInputs.cache
+D:\CapstoneProject\WebApi\ModelLayer\obj\Release\netstandard2.1\ModelLayer.dll
+D:\CapstoneProject\WebApi\ModelLayer\obj\Release\netstandard2.1\ModelLayer.pdb

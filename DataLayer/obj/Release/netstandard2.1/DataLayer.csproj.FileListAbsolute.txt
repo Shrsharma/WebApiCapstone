@@ -1,0 +1,12 @@
+D:\CapstoneProject\WebApi\DataLayer\bin\Release\netstandard2.1\DataLayer.deps.json
+D:\CapstoneProject\WebApi\DataLayer\bin\Release\netstandard2.1\DataLayer.dll
+D:\CapstoneProject\WebApi\DataLayer\bin\Release\netstandard2.1\DataLayer.pdb
+D:\CapstoneProject\WebApi\DataLayer\bin\Release\netstandard2.1\ModelLayer.dll
+D:\CapstoneProject\WebApi\DataLayer\bin\Release\netstandard2.1\ModelLayer.pdb
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.csprojAssemblyReference.cache
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.AssemblyInfoInputs.cache
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.AssemblyInfo.cs
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.csproj.CopyComplete
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.dll
+D:\CapstoneProject\WebApi\DataLayer\obj\Release\netstandard2.1\DataLayer.pdb
